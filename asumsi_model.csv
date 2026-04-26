@@ -1,0 +1,136 @@
+﻿Saham,Uji Distribusi,Model Distribusi,A Tabel,A Hitung,Kesimpulan,Hipotesis
+AADI,Kolmogorov-Smirnov,Burr (4P),0.07776,0.06871,A Hitung < A Tabel,Diterima
+AADI,Anderson Darling,Burr (4P),2.5018,1.3334,A Hitung < A Tabel,Diterima
+AADI,Chi-Square,Burr (4P),15.507,13.916,A Hitung < A Tabel,Diterima
+ADMR,Kolmogorov-Smirnov,Burr (4P),0.07776,0.04707,A Hitung < A Tabel,Diterima
+ADMR,Anderson Darling,Burr (4P),2.5018,0.72919,A Hitung < A Tabel,Diterima
+ADMR,Chi-Square,Burr (4P),15.507,12.337,A Hitung < A Tabel,Diterima
+ADRO,Kolmogorov-Smirnov,Log-Logistic (3P),0.07776,0.04763,A Hitung < A Tabel,Diterima
+ADRO,Anderson Darling,Log-Logistic (3P),2.5018,0.95848,A Hitung < A Tabel,Diterima
+ADRO,Chi-Square,Log-Logistic (3P),15.507,8.7112,A Hitung < A Tabel,Diterima
+AKRA,Kolmogorov-Smirnov,Burr (4P),0.07776,0.05661,A Hitung < A Tabel,Diterima
+AKRA,Anderson Darling,Burr (4P),2.5018,0.95443,A Hitung < A Tabel,Diterima
+AKRA,Chi-Square,Burr (4P),15.507,15.205,A Hitung < A Tabel,Diterima
+AMMN,Kolmogorov-Smirnov,Log-Logistic (3P),0.07776,0.04646,A Hitung < A Tabel,Diterima
+AMMN,Anderson Darling,Log-Logistic (3P),2.5018,1.0676,A Hitung < A Tabel,Diterima
+AMMN,Chi-Square,Log-Logistic (3P),15.507,11.442,A Hitung < A Tabel,Diterima
+AMRT,Kolmogorov-Smirnov,Log-Logistic (3P),0.07776,0.03452,A Hitung < A Tabel,Diterima
+AMRT,Anderson Darling,Log-Logistic (3P),2.5018,0.46237,A Hitung < A Tabel,Diterima
+AMRT,Chi-Square,Log-Logistic (3P),15.507,5.9255,A Hitung < A Tabel,Diterima
+ANTM,Kolmogorov-Smirnov,Log-Logistic (3P),0.07776,0.0449,A Hitung < A Tabel,Diterima
+ANTM,Anderson Darling,Log-Logistic (3P),2.5018,0.36746,A Hitung < A Tabel,Diterima
+ANTM,Chi-Square,Log-Logistic (3P),15.507,8.8476,A Hitung < A Tabel,Diterima
+ASII,Kolmogorov-Smirnov,Burr (4P),0.07776,0.04842,A Hitung < A Tabel,Diterima
+ASII,Anderson Darling,Burr (4P),2.5018,0.57701,A Hitung < A Tabel,Diterima
+ASII,Chi-Square,Burr (4P),15.507,9.2437,A Hitung < A Tabel,Diterima
+BBCA,Kolmogorov-Smirnov,Burr (4P),0.07776,0.03788,A Hitung < A Tabel,Diterima
+BBCA,Anderson Darling,Burr (4P),2.5018,0.26604,A Hitung < A Tabel,Diterima
+BBCA,Chi-Square,Burr (4P),15.507,15.786,A Hitung > A Tabel,Ditolak
+BBNI,Kolmogorov-Smirnov,Burr (4P),0.07776,0.07828,A Hitung > A Tabel,Ditolak
+BBNI,Anderson Darling,Burr (4P),2.5018,1.3095,A Hitung < A Tabel,Diterima
+BBNI,Chi-Square,Burr (4P),15.507,24.127,A Hitung > A Tabel,Ditolak
+BBRI,Kolmogorov-Smirnov,Burr (4P),0.07776,0.04201,A Hitung < A Tabel,Diterima
+BBRI,Anderson Darling,Burr (4P),2.5018,0.56283,A Hitung < A Tabel,Diterima
+BBRI,Chi-Square,Burr (4P),15.507,7.9446,A Hitung < A Tabel,Diterima
+BBTN,Kolmogorov-Smirnov,Burr (4P),0.07776,0.08193,A Hitung > A Tabel,Ditolak
+BBTN,Anderson Darling,Burr (4P),2.5018,1.2334,A Hitung < A Tabel,Diterima
+BBTN,Chi-Square,Burr (4P),15.507,26.107,A Hitung > A Tabel,Ditolak
+BMRI,Kolmogorov-Smirnov,Burr (4P),0.07776,0.04631,A Hitung < A Tabel,Diterima
+BMRI,Anderson Darling,Burr (4P),2.5018,0.70294,A Hitung < A Tabel,Diterima
+BMRI,Chi-Square,Burr (4P),15.507,13.715,A Hitung < A Tabel,Diterima
+BREN,Kolmogorov-Smirnov,Burr (4P),0.07776,0.06941,A Hitung < A Tabel,Diterima
+BREN,Anderson Darling,Burr (4P),2.5018,2.1174,A Hitung < A Tabel,Diterima
+BREN,Chi-Square,Burr (4P),15.507,18.498,A Hitung > A Tabel,Ditolak
+BRPT,Kolmogorov-Smirnov,Log-Logistic (3P),0.07776,0.056,A Hitung < A Tabel,Diterima
+BRPT,Anderson Darling,Log-Logistic (3P),2.5018,1.2158,A Hitung < A Tabel,Diterima
+BRPT,Chi-Square,Log-Logistic (3P),15.507,13.385,A Hitung < A Tabel,Diterima
+BUMI,Kolmogorov-Smirnov,Burr (4P),0.07776,0.0616,A Hitung < A Tabel,Diterima
+BUMI,Anderson Darling,Burr (4P),2.5018,1.0076,A Hitung < A Tabel,Diterima
+BUMI,Chi-Square,Burr (4P),15.507,7.8944,A Hitung < A Tabel,Diterima
+CPIN,Kolmogorov-Smirnov,Log-Logistic (3P),0.07776,0.04857,A Hitung < A Tabel,Diterima
+CPIN,Anderson Darling,Log-Logistic (3P),2.5018,0.97061,A Hitung < A Tabel,Diterima
+CPIN,Chi-Square,Log-Logistic (3P),15.507,7.5347,A Hitung < A Tabel,Diterima
+CTRA,Kolmogorov-Smirnov,Log-Logistic (3P),0.07776,0.07523,A Hitung < A Tabel,Diterima
+CTRA,Anderson Darling,Log-Logistic (3P),2.5018,0.65922,A Hitung < A Tabel,Diterima
+CTRA,Chi-Square,Log-Logistic (3P),15.507,5.5011,A Hitung < A Tabel,Diterima
+DSSA,Kolmogorov-Smirnov,Log-Logistic (3P),0.07776,0.0788,A Hitung > A Tabel,Ditolak
+DSSA,Anderson Darling,Log-Logistic (3P),2.5018,2.3563,A Hitung < A Tabel,Diterima
+DSSA,Chi-Square,Log-Logistic (3P),15.507,20.589,A Hitung > A Tabel,Ditolak
+EMTK,Kolmogorov-Smirnov,Burr (4P),0.07776,0.04851,A Hitung < A Tabel,Diterima
+EMTK,Anderson Darling,Burr (4P),2.5018,0.63695,A Hitung < A Tabel,Diterima
+EMTK,Chi-Square,Burr (4P),15.507,6.89,A Hitung < A Tabel,Diterima
+EXCL,Kolmogorov-Smirnov,Burr (4P),0.07776,0.10174,A Hitung > A Tabel,Ditolak
+EXCL,Anderson Darling,Burr (4P),2.5018,3.7903,A Hitung > A Tabel,Ditolak
+EXCL,Chi-Square,Burr (4P),15.507,31.547,A Hitung > A Tabel,Ditolak
+GOTO,Kolmogorov-Smirnov,Burr (4P),0.07776,0.1388,A Hitung > A Tabel,Ditolak
+GOTO,Anderson Darling,Burr (4P),2.5018,2.942,A Hitung > A Tabel,Ditolak
+GOTO,Chi-Square,Burr (4P),15.507,32.13,A Hitung > A Tabel,Ditolak
+HEAL,Kolmogorov-Smirnov,Burr (4P),0.07776,0.07356,A Hitung < A Tabel,Diterima
+HEAL,Anderson Darling,Burr (4P),2.5018,1.4071,A Hitung < A Tabel,Diterima
+HEAL,Chi-Square,Burr (4P),15.507,16.079,A Hitung > A Tabel,Ditolak
+ICBP,Kolmogorov-Smirnov,Burr (4P),0.07776,0.05682,A Hitung < A Tabel,Diterima
+ICBP,Anderson Darling,Burr (4P),2.5018,0.68251,A Hitung < A Tabel,Diterima
+ICBP,Chi-Square,Burr (4P),15.507,11.62,A Hitung < A Tabel,Diterima
+INCO,Kolmogorov-Smirnov,Burr (4P),0.07776,0.04331,A Hitung < A Tabel,Diterima
+INCO,Anderson Darling,Burr (4P),2.5018,0.41221,A Hitung < A Tabel,Diterima
+INCO,Chi-Square,Burr (4P),15.507,11.68,A Hitung < A Tabel,Diterima
+INDF,Kolmogorov-Smirnov,Log-Logistic (3P),0.07776,0.06265,A Hitung < A Tabel,Diterima
+INDF,Anderson Darling,Log-Logistic (3P),2.5018,0.28093,A Hitung < A Tabel,Diterima
+INDF,Chi-Square,Log-Logistic (3P),15.507,7.8067,A Hitung < A Tabel,Diterima
+INKP,Kolmogorov-Smirnov,Burr (4P),0.07776,0.05483,A Hitung < A Tabel,Diterima
+INKP,Anderson Darling,Burr (4P),2.5018,1.1507,A Hitung < A Tabel,Diterima
+INKP,Chi-Square,Burr (4P),15.507,7.8863,A Hitung < A Tabel,Diterima
+ISAT,Kolmogorov-Smirnov,Log-Logistic (3P),0.07776,0.06894,A Hitung < A Tabel,Diterima
+ISAT,Anderson Darling,Log-Logistic (3P),2.5018,1.1831,A Hitung < A Tabel,Diterima
+ISAT,Chi-Square,Log-Logistic (3P),15.507,10.894,A Hitung < A Tabel,Diterima
+ITMG,Kolmogorov-Smirnov,Log-Logistic (3P),0.07776,0.07619,A Hitung < A Tabel,Diterima
+ITMG,Anderson Darling,Log-Logistic (3P),2.5018,2.9435,A Hitung > A Tabel,Ditolak
+ITMG,Chi-Square,Log-Logistic (3P),15.507,25.954,A Hitung > A Tabel,Ditolak
+JPFA,Kolmogorov-Smirnov,Burr (4P),0.07776,0.0437,A Hitung < A Tabel,Diterima
+JPFA,Anderson Darling,Burr (4P),2.5018,0.41535,A Hitung < A Tabel,Diterima
+JPFA,Chi-Square,Burr (4P),15.507,4.8175,A Hitung < A Tabel,Diterima
+KLBF,Kolmogorov-Smirnov,Burr (4P),0.07776,0.05685,A Hitung < A Tabel,Diterima
+KLBF,Anderson Darling,Burr (4P),2.5018,0.27162,A Hitung < A Tabel,Diterima
+KLBF,Chi-Square,Burr (4P),15.507,13.386,A Hitung < A Tabel,Diterima
+MAPI,Kolmogorov-Smirnov,Burr (4P),0.07776,0.03492,A Hitung < A Tabel,Diterima
+MAPI,Anderson Darling,Burr (4P),2.5018,0.4238,A Hitung < A Tabel,Diterima
+MAPI,Chi-Square,Burr (4P),15.507,3.117,A Hitung < A Tabel,Diterima
+MBMA,Kolmogorov-Smirnov,Burr (4P),0.07776,0.06321,A Hitung < A Tabel,Diterima
+MBMA,Anderson Darling,Burr (4P),2.5018,0.63691,A Hitung < A Tabel,Diterima
+MBMA,Chi-Square,Burr (4P),15.507,17.144,A Hitung > A Tabel,Ditolak
+MDKA,Kolmogorov-Smirnov,Burr (4P),0.07776,0.04737,A Hitung < A Tabel,Diterima
+MDKA,Anderson Darling,Burr (4P),2.5018,0.52348,A Hitung < A Tabel,Diterima
+MDKA,Chi-Square,Burr (4P),15.507,10.353,A Hitung < A Tabel,Diterima
+MEDC,Kolmogorov-Smirnov,Log-Logistic (3P),0.07776,0.04664,A Hitung < A Tabel,Diterima
+MEDC,Anderson Darling,Log-Logistic (3P),2.5018,0.21995,A Hitung < A Tabel,Diterima
+MEDC,Chi-Square,Log-Logistic (3P),15.507,2.4768,A Hitung < A Tabel,Diterima
+NCKL,Kolmogorov-Smirnov,Burr (4P),0.07776,0.05798,A Hitung < A Tabel,Diterima
+NCKL,Anderson Darling,Burr (4P),2.5018,0.50475,A Hitung < A Tabel,Diterima
+NCKL,Chi-Square,Burr (4P),15.507,12.303,A Hitung < A Tabel,Diterima
+PGAS,Kolmogorov-Smirnov,Log-Logistic (3P),0.07776,0.05291,A Hitung < A Tabel,Diterima
+PGAS,Anderson Darling,Log-Logistic (3P),2.5018,0.75926,A Hitung < A Tabel,Diterima
+PGAS,Chi-Square,Log-Logistic (3P),15.507,9.9066,A Hitung < A Tabel,Diterima
+PGEO,Kolmogorov-Smirnov,Log-Logistic (3P),0.07776,0.05245,A Hitung < A Tabel,Diterima
+PGEO,Anderson Darling,Log-Logistic (3P),2.5018,0.80519,A Hitung < A Tabel,Diterima
+PGEO,Chi-Square,Log-Logistic (3P),15.507,14.66,A Hitung < A Tabel,Diterima
+PTBA,Kolmogorov-Smirnov,Burr (4P),0.07776,0.09499,A Hitung > A Tabel,Ditolak
+PTBA,Anderson Darling,Burr (4P),2.5018,1.8888,A Hitung < A Tabel,Diterima
+PTBA,Chi-Square,Burr (4P),15.507,15.698,A Hitung > A Tabel,Ditolak
+SCMA,Kolmogorov-Smirnov,Burr (4P),0.07776,0.04481,A Hitung < A Tabel,Diterima
+SCMA,Anderson Darling,Burr (4P),2.5018,0.76541,A Hitung < A Tabel,Diterima
+SCMA,Chi-Square,Burr (4P),15.507,10.027,A Hitung < A Tabel,Diterima
+SMGR,Kolmogorov-Smirnov,Burr (4P),0.07776,0.04393,A Hitung < A Tabel,Diterima
+SMGR,Anderson Darling,Burr (4P),2.5018,0.53613,A Hitung < A Tabel,Diterima
+SMGR,Chi-Square,Burr (4P),15.507,7.6081,A Hitung < A Tabel,Diterima
+TLKM,Kolmogorov-Smirnov,Burr (4P),0.07776,0.03934,A Hitung < A Tabel,Diterima
+TLKM,Anderson Darling,Burr (4P),2.5018,0.32463,A Hitung < A Tabel,Diterima
+TLKM,Chi-Square,Burr (4P),15.507,4.6162,A Hitung < A Tabel,Diterima
+TOWR,Kolmogorov-Smirnov,Burr (4P),0.07776,0.09089,A Hitung > A Tabel,Ditolak
+TOWR,Anderson Darling,Burr (4P),2.5018,1.4887,A Hitung < A Tabel,Diterima
+TOWR,Chi-Square,Burr (4P),15.507,31.375,A Hitung > A Tabel,Ditolak
+UNTR,Kolmogorov-Smirnov,Burr (4P),0.07776,0.05428,A Hitung < A Tabel,Diterima
+UNTR,Anderson Darling,Burr (4P),2.5018,1.4052,A Hitung < A Tabel,Diterima
+UNTR,Chi-Square,Burr (4P),15.507,17.564,A Hitung > A Tabel,Ditolak
+UNVR,Kolmogorov-Smirnov,Burr (4P),0.07776,0.06692,A Hitung < A Tabel,Diterima
+UNVR,Anderson Darling,Burr (4P),2.5018,0.61636,A Hitung < A Tabel,Diterima
+UNVR,Chi-Square,Burr (4P),15.507,12.354,A Hitung < A Tabel,Diterima
